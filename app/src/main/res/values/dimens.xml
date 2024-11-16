@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="bigMargin">50dp</dimen>
+    <dimen name="defMargin">32dp</dimen>
+    <dimen name="minMargin">8dp</dimen>
+    <dimen name="textSize">20sp</dimen>
+</resources>
